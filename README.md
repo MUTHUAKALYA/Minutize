@@ -39,6 +39,14 @@ The Meeting Minutes App is a web application built using React and Firebase, des
 
 
 ## Deployment Link
-- [Live link here] ()
+- [Live link here](https://minutize.netlify.app/)
 
+## Live Preview
 
+![alt text](/public/image.png)
+
+![alt text](/public/image-1.png)
+
+![alt text](/public/image-2.png)
+
+![alt text](/public/image-3.png)
